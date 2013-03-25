@@ -1,7 +1,6 @@
-#NppEmbers
+#Embers color scheme for Notepad++
 
-Embers color scheme for Notepad++
-Palette mostly borrowed from Lex Mitchell's [Embers](http://studiostyl.es/users/482) style for Visual Studio.
+A Notepad++ theme based on Lex Mitchell's "[Embers](http://studiostyl.es/users/482)" style for Visual Studio.
 
 ##Supported languages
 
