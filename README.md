@@ -14,7 +14,7 @@ Palette mostly borrowed from Lex Mitchell's [Embers](http://studiostyl.es/users/
 
 ##Installation instructions
 
-Copy this file in %appdata%/Notepad++/themes/
+Copy Embers.xml in %appdata%/Notepad++/themes/
 
 ##Palette (HEX value, given name, R G B values)
 
