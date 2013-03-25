@@ -406,7 +406,7 @@
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="E2A818" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="E3792B" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="6" fgColor="E3792B" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="CHARACTER" styleID="7" fgColor="FBF884" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="CHARACTER" styleID="7" fgColor="E3792B" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="D1D1D1" bgColor="212121" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="FUNC1" styleID="13" fgColor="F9C51A" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" />
             <WordsStyle name="FUNC2" styleID="14" fgColor="F9C51A" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="type1" />
