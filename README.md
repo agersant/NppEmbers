@@ -7,6 +7,8 @@ A Notepad++ theme based on Lex Mitchell's "[Embers](http://studiostyl.es/schemes
 - C
 - C++
 - Go
+- HTML
+- Javascript
 - Lua
 - Makefile
 - Npp search results
