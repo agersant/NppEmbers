@@ -13,6 +13,7 @@ A Notepad++ theme based on Lex Mitchell's "[Embers](http://studiostyl.es/schemes
 - Makefile
 - Npp search results
 - PHP
+- SQL
 - XML
 
 ##Installation instructions
