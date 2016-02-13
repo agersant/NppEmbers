@@ -15,6 +15,7 @@ A Notepad++ theme based on Lex Mitchell's "[Embers](http://studiostyl.es/schemes
 - PHP
 - SQL
 - XML
+- YAML
 
 ##Installation instructions
 

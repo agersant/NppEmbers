@@ -756,15 +756,15 @@
             <WordsStyle name="CDATA" styleID="17" fgColor="505050" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="yaml" desc="YAML" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="000000" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="IDENTIFIER" styleID="2" fgColor="000080" bgColor="212121" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="COMMENT" styleID="1" fgColor="008000" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="0000FF" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
-            <WordsStyle name="NUMBER" styleID="4" fgColor="FF8040" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="REFERENCE" styleID="5" fgColor="804000" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="DOCUMENT" styleID="6" fgColor="0000FF" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="TEXT" styleID="7" fgColor="808080" bgColor="212121" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ERROR" styleID="8" fgColor="FF0000" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="D1D1D1" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="IDENTIFIER" styleID="2" fgColor="E3792B" bgColor="212121" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="B89275" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="INSTRUCTION WORD" styleID="3" fgColor="EFDB80" bgColor="212121" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="F9C51A" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="REFERENCE" styleID="5" fgColor="DA8F07" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="DOCUMENT" styleID="6" fgColor="E2A818" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="TEXT" styleID="7" fgColor="D1D1D1" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="ERROR" styleID="8" fgColor="DF8C34" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
             <WordsStyle name="Default" styleID="0" fgColor="D1D1D1" bgColor="212121" fontName="" fontStyle="0" fontSize="" />
