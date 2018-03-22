@@ -1,8 +1,8 @@
-#Embers color scheme for Notepad++
+# Embers color scheme for Notepad++
 
 A Notepad++ theme based on Lex Mitchell's "[Embers](http://studiostyl.es/schemes/embers)" style for Visual Studio.
 
-##Supported languages
+## Supported languages
 
 - C
 - C++
@@ -17,11 +17,11 @@ A Notepad++ theme based on Lex Mitchell's "[Embers](http://studiostyl.es/schemes
 - XML
 - YAML
 
-##Installation instructions
+## Installation instructions
 
 Copy Embers.xml in %appdata%/Notepad++/themes/
 
-##Palette (HEX value, given name, R G B values)
+## Palette (HEX value, given name, R G B values)
 
     0x121212	BG dark				18  18  18	//used for current line  
     0x212121	BG main				33	33	33	//used almost everywhere  
